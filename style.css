@@ -1,0 +1,13 @@
+.left-div {
+    float: left;
+    width: 30%;
+    background-color: #f0f0f0;
+    height: 500px; 
+}
+
+.right-div {
+    float: left;
+    width: 70%;
+    background-color: #d0d0d0;
+    height: 500px; 
+}
