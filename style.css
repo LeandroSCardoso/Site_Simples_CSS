@@ -1,13 +1,38 @@
+body {
+    background-color: #c4afaf;
+}
+
+.cabecalho {
+    background-color: rgb(219, 180, 71);
+    padding: 20px;
+}
+
+.cabecalho .link_menu {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    color: #470606;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
+
+.cabecalho .link_menu:hover {
+    text-decoration: underline;
+    background-color: #d0d0d0;
+    border-radius: 10px;
+}
+
 .left-div {
     float: left;
     width: 30%;
     background-color: #f0f0f0;
-    height: 500px; 
+    height: 500px;
 }
 
 .right-div {
     float: left;
     width: 70%;
     background-color: #d0d0d0;
-    height: 500px; 
+    height: 500px;
 }
